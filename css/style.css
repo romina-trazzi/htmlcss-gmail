@@ -1,0 +1,64 @@
+/* Codice Css per demo Gmail */
+
+body {
+  background-image: url(../img/wood.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+ }
+
+#center {
+  width: 1200px;
+  margin: 0 auto;
+ }
+
+h1 {
+  color: white;
+  margin-left: 10px;
+  display: inline;
+ }
+
+.middle {
+  vertical-align: middle;
+ }
+
+hr {
+  border-color: white;
+ }
+
+h2 {
+  color: white;
+ }
+
+#circle {
+  display: inline-block;
+  background-color: orange;
+  border-radius: 20px;
+  height: 30px;
+  width: 30px;
+  margin: auto;
+  padding: 5px;
+  text-align: center;
+ }
+
+.row {
+  height: 25px;
+  background-color: lightgrey;
+  border: 1px solid black;
+ }
+
+ .graytext {
+   color: gray;
+ }
+
+ .row.white {
+   background-color: white;
+ }
+
+footer h2 {
+  color: white;
+  text-align: center;
+ }
+
+#small {
+  font-size: 14px;
+}
